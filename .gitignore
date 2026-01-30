@@ -3,3 +3,7 @@
 __pycache__/
 .env
 *.log
+
+# Excel output files (generated, not source)
+*.xlsx
+~$*
